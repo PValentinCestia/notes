@@ -24,7 +24,7 @@ python3 -m venv /chemin/du/dossier/venv/du/projet/
 
 Exemple de fichier `requirements.txt` :
 
-```js
+```
 asgiref==3.8.1
 Django==5.1.7
 django-cors-headers==4.7.0
